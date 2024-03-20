@@ -1,0 +1,1 @@
+pandas.read_cvs("/Users/mirage/Downloads/Stromerzeuger_100001_bis_125000.csv")
