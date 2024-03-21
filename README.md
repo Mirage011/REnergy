@@ -14,7 +14,7 @@ Downloaded and began working with CSV data files.
 Discussed storage options for efficient data management.
 Conducted data cleaning and gained an initial understanding of the dataset.
 Aligned with the team on tools, substructures, and project goals.
-Wednesday (Day 3):
+
 
 Completed data cleaning processes.
 Explored storage options, with a focus on utilizing BigQuery.
