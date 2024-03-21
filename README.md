@@ -1,9 +1,9 @@
 # Renewable Analysis for German market
-Renewable energy analysis
+## Renewable energy analysis
 
 ![Screenshot 2024-03-21 at 18 20 45](https://github.com/Mirage011/REnergy_Analysis_Germany/assets/155905634/c0027db3-12e0-4bf7-8773-95a211ce9c9e)
 
-This project involves the development of a data-driven solution for analyzing and visualizing energy-related data in Germany. The project spans over a period of nine days and encompasses various tasks aimed at achieving the defined objectives. Below is a breakdown of the key activities undertaken each day:
+### This project involves the development of a data-driven solution for analyzing and visualizing energy-related data in Germany. The project spans over a period of nine days and encompasses various tasks aimed at achieving the defined objectives. Below is a breakdown of the key activities undertaken each day:
 
 
 
