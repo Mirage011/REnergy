@@ -1,4 +1,4 @@
-# REnergy
+# Renewable Analysis for German market
 Renewable energy analysis
 
 This project involves the development of a data-driven solution for analyzing and visualizing energy-related data in Germany. The project spans over a period of nine days and encompasses various tasks aimed at achieving the defined objectives. Below is a breakdown of the key activities undertaken each day:
